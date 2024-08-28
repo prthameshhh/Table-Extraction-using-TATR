@@ -1,4 +1,4 @@
-# Table Transformer for Table Detection and Structure Recognition
+# Table Transformer for Table Detection and Structure Recognition and table extraction
 
 This project implements a pipeline for detecting tables in images and recognizing their structure using the Table Transformer (TATR) model. It includes table detection, structure recognition, and OCR capabilities.
 
